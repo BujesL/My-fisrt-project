@@ -1,0 +1,703 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+
+}
+
+.topo{
+    width: 100%;
+    height: 10vmin;
+    background-color: rgb(255, 73, 73);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topoboletins{
+    width: 100%;
+    height: 10vmin;
+    background-color: rgb(255, 73, 73);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.toponormas{
+    width: 100%;
+    height: 10vmin;
+    background-color: rgb(255, 73, 73);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.brasao a{
+    width: 89%;
+}
+
+.brasao{
+    width: 5%;
+    height: 10vmin;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+.logos{
+    width: 84%;
+    height: 10vmin;
+    background-color: rgb(219, 0, 0);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 3px;
+    
+}
+
+.logos div{
+    width: 10%;
+    height: 9vmin;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.CBMRS{
+    width: 15%;
+    height: 10vmin;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.main2{
+    width: 100%;
+    height: 25vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 7vmin;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(8, 0, 124);
+}
+
+
+.mainnormas{
+    width: 100%;
+    height: 85vmin;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.cinterno{
+    width: 100%;
+    height: 20vmin;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.cnormas{
+    width: 100%;
+    height: 20vmin;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boletiminterno{
+    width: 80%;
+    height: 10vmin;
+    background-color: rgb(172, 172, 172);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5vmin;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(8, 0, 124);
+    border-radius: 5px ;
+}
+
+.normasri{
+    width: 80%;
+    height: 8vmin;
+    background-color: rgb(172, 172, 172);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5vmin;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(8, 0, 124);
+    border-radius: 5px ;
+}
+
+.g1{
+    width: 100%;
+    height: 180vmin;
+    background-color: rgb(221, 221, 221);
+    display: flex;
+
+}
+
+.g4{
+    width: 100%;
+    height: 90vmin;
+    background-color: rgb(221, 221, 221);
+    display: flex;
+    justify-content: center;
+}
+
+.g2{
+    width: 50%;
+    height: 180vmin;
+    background-color: white ;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-style: solid;
+    border-top: 1px;
+    border-width: 1px;
+}
+
+.g2 a{
+    width: 80%;
+    display: flex;
+}
+
+.g2 div{
+    width: 80%;
+    height: 8vmin;
+    background-color: rgb(172, 172, 172) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: none;
+    margin: 1%;
+    color:rgb(8, 0, 124);
+}
+
+.g2 button{
+    width: 100%;
+    height: 5vmin;
+    background-color: rgb(172, 172, 172) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: 0.5s;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: none;
+    color:rgb(8, 0, 124);
+}
+
+.g2 button:hover{
+    transform: scale(1.1);
+    background-color:rgb(206, 206, 206) ;
+    letter-spacing: 1px;
+}
+
+.g5{
+    width: 50%;
+    height: 75vmin;
+    background-color: white ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-style: solid;
+    border-top: 1px;
+    border-width: 1px;
+}
+
+.g5 a{
+    width: 80%;
+    display: flex;
+}
+
+.g5 div{
+    width: 80%;
+    height: 8vmin;
+    background-color: rgb(172, 172, 172) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: none;
+    margin: 1%;
+    color:rgb(8, 0, 124);
+}
+
+.g5 button{
+    width: 100%;
+    height: 5vmin;
+    background-color: rgb(172, 172, 172) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: 0.5s;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: none;
+    color:rgb(8, 0, 124);
+}
+
+.g5 button:hover{
+    transform: scale(1.1);
+    background-color:rgb(206, 206, 206) ;
+    letter-spacing: 1px;
+}
+
+
+
+.g3{
+    width: 50%;
+    height: 180vmin;
+    background-color: white ;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-style: solid;
+    border-top: 1px;
+    border-width: 1px;
+
+}
+
+
+.g3 div{
+    width: 80%;
+    height: 8vmin;
+    background-color: rgb(172, 172, 172) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: none;
+    margin: 1%;
+    color:rgb(8, 0, 124);
+}
+
+.g3 a{
+    width: 80%;
+}
+
+.g3 button{
+    width: 100%;
+    height: 5vmin;
+    background-color: rgb(172, 172, 172) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: 0.5s;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: none;
+    color:rgb(8, 0, 124);
+}
+
+.g3 button:hover{
+    transform: scale(1.1);
+    background-color:rgb(206, 206, 206) ;
+    letter-spacing: 1px;
+}
+
+.g6{
+    width: 50%;
+    height: 75vmin;
+    background-color: white ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-style: solid;
+    border-top: 1px;
+    border-width: 1px;
+}
+
+.g6 div{
+    width: 80%;
+    height: 8vmin;
+    background-color: rgb(172, 172, 172) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: none;
+    margin: 1%;
+    color:rgb(8, 0, 124);
+}
+
+.g6 a{
+    width: 80%;
+}
+
+.g6 button{
+    width: 100%;
+    height: 5vmin;
+    background-color: rgb(172, 172, 172) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: 0.5s;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: none;
+    color:rgb(8, 0, 124);
+}
+
+.g6 button:hover{
+    transform: scale(1.1);
+    background-color:rgb(206, 206, 206) ;
+    letter-spacing: 1px;
+}
+
+
+
+.corpo{
+    width: 100%;
+    height: 31.7vmin;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.corpo2{
+    width: 100%;
+    height: 200vmin;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.main3{
+    width: 100%;
+    height: 28.33vmin;
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+    
+}
+
+.c1{
+    width: 100%;
+    height: 100vmin;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.c1 div{
+    width: 20%;
+    height: 48vmin;
+    background-color: rgb(221, 221, 221);
+    margin: 1%;
+    border-radius: 5px 5px 5px 5px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+}
+
+
+
+.pessoal{
+    font-weight: bold;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pessoal a{
+    width: 90%;
+}
+
+.pessoal button{
+    width: 100%;
+    height: 4vmin;
+    background-color: rgb(172, 172, 172);
+    cursor: pointer;
+    transition: 0.5s;
+    border-radius: 4px;
+    font-weight: bold;
+    border-style: none;
+    color:rgb(8, 0, 124);
+}
+
+.pessoal button:hover{
+    transform: scale(1.1);
+    background-color:rgb(206, 206, 206) ;
+    letter-spacing: 1px;
+}
+
+.financas{
+    font-weight: bold;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.financas a{
+    width: 90%;
+}
+
+.financas button{
+    width: 100%;
+    height: 4vmin;
+    background-color: rgb(172, 172, 172);
+    cursor: pointer;
+    transition: 0.5s;
+    border-radius: 4px;
+    font-weight: bold;
+    border-style: none;
+    color:rgb(8, 0, 124);
+}
+
+.financas button:hover{
+    transform: scale(1.1);
+    background-color:rgb(206, 206, 206) ;
+    letter-spacing: 1px;
+}
+
+.gerais{
+    font-weight: bold;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.gerais a{
+    width: 90%;
+}
+
+.gerais button{
+    width: 100%;
+    height: 4vmin;
+    background-color: rgb(172, 172, 172);
+    cursor: pointer;
+    transition: 0.5s;
+    border-radius: 4px;
+    font-weight: bold;
+    border-style: none;
+    color:rgb(8, 0, 124);
+}
+
+.gerais button:hover{
+    transform: scale(1.1);
+    background-color:rgb(206, 206, 206) ;
+    letter-spacing: 1px;
+}
+
+.socorro{
+    font-weight: bold;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.socorro a{
+    width: 90%;
+}
+
+.socorro button{
+    width: 100%;
+    height: 4vmin;
+    background-color: rgb(172, 172, 172);
+    cursor: pointer;
+    transition: 0.5s;
+    border-radius: 4px;
+    font-weight: bold;
+    border-style: none;
+    color:rgb(8, 0, 124);
+}
+
+.socorro button:hover{
+    transform: scale(1.1);
+    background-color:rgb(206, 206, 206) ;
+    letter-spacing: 1px;
+}
+
+.logistica{
+    font-weight: bold;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logistica a{
+    width: 90%;
+}
+
+.logistica button{
+    width: 100%;
+    height: 4vmin;
+    background-color: rgb(172, 172, 172);
+    cursor: pointer;
+    transition: 0.5s;
+    border-radius: 4px;
+    font-weight: bold;
+    border-style: none;
+    color:rgb(8, 0, 124);
+}
+
+.logistica button:hover{
+    transform: scale(1.1);
+    background-color:rgb(206, 206, 206) ;
+    letter-spacing: 1px;
+}
+
+.sseg{
+    font-weight: bold;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sseg a{
+    width: 90%;
+}
+
+.sseg button{
+    width: 100%;
+    height: 4vmin;
+    background-color: rgb(172, 172, 172);
+    cursor: pointer;
+    transition: 0.5s;
+    border-radius: 4px;
+    font-weight: bold;
+    border-style: none;
+    color:rgb(8, 0, 124);
+}
+
+.sseg button:hover{
+    transform: scale(1.1);
+    background-color:rgb(206, 206, 206) ;
+    letter-spacing: 1px;
+}
+
+.rodape{
+    width: 100%;
+    height: 5vmin;
+    background-color: #00005f;
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+    color: rgb(136, 136, 182);
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.rodape2{
+    width: 100%;
+    height: 5vmin;
+    background-color: #00005f;
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+    color: rgb(136, 136, 182);
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.rodape3{
+    width: 100%;
+    height: 5vmin;
+    background-color: #00005f;
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+    color: rgb(136, 136, 182);
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.grupo1{
+    width: 30%;
+    height: 5vmin;
+    background-color: #00005f;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+
+}
+
+.grupo2{
+    width: 40%;
+    height: 5vmin;
+    background-color: #00005f;
+    display: flex;
+}
+
+.grupo3{
+    width: 30%;
+    height: 5vmin;
+    background-color: #00005f;
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+}
+
+body::-webkit-scrollbar {
+    width: 12px; 
+                  
+  }
+  
+  body::-webkit-scrollbar-track {
+    background-color: rgb(206, 206, 206) ; 
+           
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color:#00005f;   
+      border-radius: 5px ;
+      
+  }
+
+  
+
+
+
+@media only screen and (max-width:1000px){
+    *{
+        font-size: 0.9em;
+    }
+}
+
